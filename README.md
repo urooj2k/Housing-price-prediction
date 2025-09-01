@@ -8,5 +8,4 @@ The dataset is taken from [House Prices Dataset](https://www.kaggle.com/datasets
 To run this project, you need following libraries:
 numpy
 pandas
-matplotlib
 scikit-learn
